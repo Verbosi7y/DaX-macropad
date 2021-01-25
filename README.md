@@ -1,6 +1,6 @@
 # DaX macropad
 The DaX Macropad, fully programmable with QMK support!
-![DaX Macropad](https://raw.githubusercontent.com/Verbosi7y/DaX-macropad/master/DaXMacropad.jpg)
+![DaX Macropad](https://raw.githubusercontent.com/Verbosi7y/DaX-macropad/main/Images/DaXMacropad.jpg)
 
 This macropad uses the Pro Micro/Elite-C microcontroller to function.
 In addition, it uses the 1N4148 through hole diodes and supports MX styled switches only.
